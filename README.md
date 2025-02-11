@@ -1,5 +1,5 @@
 # AlphaPilot
-This repository is dedicated to publishing AlphaPilot Release versions and collecting user feedback through Github Issues(https://github.com/AlphaPilotHQ/AlphaPilot/issues).
+This repository is dedicated to publishing AlphaPilot Release versions and collecting user feedback through [Github Issues](https://github.com/AlphaPilotHQ/AlphaPilot/issues).
 
 ### Links
 - [Official Website](https://www.alphapilot.tech/home)
@@ -7,7 +7,7 @@ This repository is dedicated to publishing AlphaPilot Release versions and colle
 
 ---------------------------------------------------------------------------------------
 
-本仓库用于发布 AlphaPilot 的 Release 版本以及使用 Github Issues(https://github.com/AlphaPilotHQ/AlphaPilot/issues) 收集和跟进用户反馈。
+本仓库用于发布 AlphaPilot 的 Release 版本以及使用 [Github Issues](https://github.com/AlphaPilotHQ/AlphaPilot/issues) 收集和跟进用户反馈。
 ### 链接
 - [官网](https://www.alphapilot.tech/home)
 - [Telegram社群](https://t.me/AlphaPilotClub)
