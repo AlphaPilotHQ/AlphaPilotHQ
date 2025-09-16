@@ -20,19 +20,20 @@ This repository is dedicated to publishing AlphaPilot [Release](https://github.c
 
 | Format | Logo |
 |--------|------|
-| SVG    | ![Logo Full Color](assets/logos/logo-full-color.svg) |
-| PNG    | ![Logo Full Color PNG](assets/logos/logo-full-color.png) |
+| PNG (light background) | ![Banner Black](Asset/banner_black.png) |
+| PNG (dark background) | ![Banner White](<Asset/banner_white(1).png>) |
 
 ### Icon / Logomark
 
-| Format | Logo |
-|--------|------|
-| SVG    | ![Icon SVG](assets/logos/logo-icon.svg) |
-| PNG    | ![Icon PNG](assets/logos/logo-icon.png) |
+| Size | Icon |
+|------|------|
+| 192x192 PNG | ![Android Chrome 192x192](Asset/android-chrome-192x192.png) |
+| 512x512 PNG | ![Android Chrome 512x512](Asset/android-chrome-512x512.png) |
+| White Logo (JPG) | ![Logo White](Asset/logo_white.jpg) |
 
-### Color Variants
+### Favicons
 
-| Background | Logo |
-|------------|------|
-| Dark background (white logo) | ![Logo White](assets/logos/logo-white.svg) |
-| Light background (black logo) | ![Logo Black](assets/logos/logo-black.svg) |
+| Size | Icon |
+|------|------|
+| 16x16 PNG | ![Favicon 16x16](Asset/favicon-16x16.png) |
+| 32x32 PNG | ![Favicon 32x32](Asset/favicon-32x32.png) |
